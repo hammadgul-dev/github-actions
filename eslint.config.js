@@ -9,6 +9,9 @@ export default [
       globals: {
         process: "readonly",
         console: "readonly",
+        describe: "readonly",
+        test: "readonly",
+        expect: "readonly",
       },
     },
   },
